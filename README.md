@@ -14,7 +14,7 @@ Merge Sort Proje
     
               8-11-12-16-22  
               
-  ##  *1 -> Yukarı verilen dizinin sort türüne göre aşamalarını yazınız. *        
+  ## *1 -> Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.*        
 
 * Searching
 * Closest Pair
