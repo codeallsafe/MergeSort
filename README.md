@@ -24,3 +24,5 @@ Merge Sort Proje
 ## *2 -> Big-O gösterimini yazınız.*
 
 O(6*log6)
+
+[Patika Link](https://app.patika.dev/ica)
